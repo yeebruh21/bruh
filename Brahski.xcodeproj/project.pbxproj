@@ -11,6 +11,7 @@
 		3111D97225FE77A70046DEEE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3111D97125FE77A70046DEEE /* ContentView.swift */; };
 		3111D97425FE77B20046DEEE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3111D97325FE77B20046DEEE /* Assets.xcassets */; };
 		3111D97725FE77B20046DEEE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3111D97625FE77B20046DEEE /* Preview Assets.xcassets */; };
+		3111D98025FECC8E0046DEEE /* MyFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3111D97F25FECC8E0046DEEE /* MyFile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		3111D97325FE77B20046DEEE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3111D97625FE77B20046DEEE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3111D97825FE77B20046DEEE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3111D97F25FECC8E0046DEEE /* MyFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyFile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 		3111D97525FE77B20046DEEE /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
+				3111D97F25FECC8E0046DEEE /* MyFile.swift */,
 				3111D97625FE77B20046DEEE /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
@@ -140,6 +143,7 @@
 			files = (
 				3111D97225FE77A70046DEEE /* ContentView.swift in Sources */,
 				3111D97025FE77A70046DEEE /* BrahskiApp.swift in Sources */,
+				3111D98025FECC8E0046DEEE /* MyFile.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
